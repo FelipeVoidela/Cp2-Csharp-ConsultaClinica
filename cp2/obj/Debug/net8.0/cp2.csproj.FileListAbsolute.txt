@@ -1,0 +1,14 @@
+C:\Users\Felipe\source\repos\cp2\cp2\bin\Debug\net8.0\cp2.exe
+C:\Users\Felipe\source\repos\cp2\cp2\bin\Debug\net8.0\cp2.deps.json
+C:\Users\Felipe\source\repos\cp2\cp2\bin\Debug\net8.0\cp2.runtimeconfig.json
+C:\Users\Felipe\source\repos\cp2\cp2\bin\Debug\net8.0\cp2.dll
+C:\Users\Felipe\source\repos\cp2\cp2\bin\Debug\net8.0\cp2.pdb
+C:\Users\Felipe\source\repos\cp2\cp2\obj\Debug\net8.0\cp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\cp2\cp2\obj\Debug\net8.0\cp2.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\cp2\cp2\obj\Debug\net8.0\cp2.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\cp2\cp2\obj\Debug\net8.0\cp2.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\cp2\cp2\obj\Debug\net8.0\cp2.dll
+C:\Users\Felipe\source\repos\cp2\cp2\obj\Debug\net8.0\refint\cp2.dll
+C:\Users\Felipe\source\repos\cp2\cp2\obj\Debug\net8.0\cp2.pdb
+C:\Users\Felipe\source\repos\cp2\cp2\obj\Debug\net8.0\cp2.genruntimeconfig.cache
+C:\Users\Felipe\source\repos\cp2\cp2\obj\Debug\net8.0\ref\cp2.dll
