@@ -24,6 +24,8 @@ Este projeto é um sistema de agendamento de consultas para uma clínica, permit
 - Você pode cadastrar pacientes, médicos e agendar consultas. Também é possível gerar relatórios diários de consultas.
 
 RM 98595 - Felipe Voidela Toledo
+
 RM 98481 - Gustavo Kenzo Kano Ozeki
+
 RM 98387 - Ian Cancian Nachtergaele
 
